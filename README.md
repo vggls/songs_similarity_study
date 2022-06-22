@@ -3,7 +3,7 @@
 This repo consists of the following files:
 - song_similarity.ipynb: The main Jupyter notebook
                           
-   Sections 1-3 include the feature extraction and data preprocessing part.
+   Sections 1-3 include the Spotify and PyAudioAnalysis feature extraction and data preprocessing part.
    In order to use the similarity metric functions of section 4, the following pickle files are necessary:
    - subsection 4.1 - "get_similar_standard_metrics" fct - euclidean_similarities.pickle, manhattan_similarities.pickle, cosine_similarities.pickle, chebyshev_similarities.pickle
    - subsection 4.2 - "get_similar_spotify_metric" fct - all_features.pickle
