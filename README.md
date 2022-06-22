@@ -7,7 +7,7 @@ This repo consists of the following files:
    In order to use the similarity metric functions of section 4, the following pickle files are necessary:
    - subsection 4.1 - "get_similar_standard_metrics" fct - euclidean_similarities.pickle, manhattan_similarities.pickle, cosine_similarities.pickle, chebyshev_similarities.pickle
    - subsection 4.2 - "get_similar_spotify_metric" fct - all_features.pickle
-   - subsection 4.3 - "get_similar_pyaudio_metric" fct - all_features.pickle
+   - subsection 4.3 - "get_similar_pca_metric" fct - all_features.pickle
    
 - presentation.pdf: A short presentation of the notebook ideas
 - pickle_files folder: The pickle files extracted from the Jupyter notebook
