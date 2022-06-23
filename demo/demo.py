@@ -2,8 +2,6 @@
 """
 Implements the section 4.3 Jupyter notebook function
 
-REMARK: Note that the song of interest should be in the last position of the Spotify playlist
-
 REMARK: The song singal is considered to come from two channels.
         As explained in https://github.com/tyiannak/pyAudioAnalysis/issues/162
         one option is take the channels average. In the code this is implemented by
