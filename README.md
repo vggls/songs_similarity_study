@@ -1,4 +1,4 @@
-# songs_similarity_study
+# songs_similarity_study (Project for "Multimodal Machine Learning" course)
 
 This repo consists of the following files:
 
